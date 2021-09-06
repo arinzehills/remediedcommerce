@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/remediedcommerce/static/css/main.a617e044.chunk.css",
+    "main.js": "/remediedcommerce/static/js/main.3a0b57ad.chunk.js",
+    "main.js.map": "/remediedcommerce/static/js/main.3a0b57ad.chunk.js.map",
+    "runtime-main.js": "/remediedcommerce/static/js/runtime-main.fa1869f4.js",
+    "runtime-main.js.map": "/remediedcommerce/static/js/runtime-main.fa1869f4.js.map",
+    "static/js/2.5a24e5f7.chunk.js": "/remediedcommerce/static/js/2.5a24e5f7.chunk.js",
+    "static/js/2.5a24e5f7.chunk.js.map": "/remediedcommerce/static/js/2.5a24e5f7.chunk.js.map",
+    "static/js/3.2df2b0a4.chunk.js": "/remediedcommerce/static/js/3.2df2b0a4.chunk.js",
+    "static/js/3.2df2b0a4.chunk.js.map": "/remediedcommerce/static/js/3.2df2b0a4.chunk.js.map",
+    "index.html": "/remediedcommerce/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/remediedcommerce/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.5a24e5f7.chunk.js.LICENSE.txt": "/remediedcommerce/static/js/2.5a24e5f7.chunk.js.LICENSE.txt",
+    "static/media/launch_background.7ed41029.png": "/remediedcommerce/static/media/launch_background.7ed41029.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa1869f4.js",
+    "static/js/2.5a24e5f7.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.3a0b57ad.chunk.js"
+  ]
+}
